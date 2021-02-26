@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "500307098917",
+    "project_id": "epichat-38242",
+    "storage_bucket": "epichat-38242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500307098917:android:72046594bf46862bffaecc",
+        "android_client_info": {
+          "package_name": "com.elwiss.epi_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500307098917-dr94lueqeb3i664cu8mbonms0i0qktfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elwiss.epi_chat",
+            "certificate_hash": "bc1a315e829dd497e4988739fd1df6fae8063570"
+          }
+        },
+        {
+          "client_id": "500307098917-2sjocma6s3a7skin6ri8q5mr3vhqbpei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVC-F21A4MfP9N4Q2jXPyile4Ynd2DX1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500307098917-2sjocma6s3a7skin6ri8q5mr3vhqbpei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
